@@ -1,0 +1,1217 @@
+!SESSION 2017-05-23 07:15:31.181 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-23 07:22:28.064
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-23 07:22:28.066
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-24 06:46:20.601 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-24 06:47:14.225
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-24 06:47:14.229
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-25 06:36:35.088 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-25 06:38:10.191
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-25 06:38:10.207
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-26 06:41:52.042 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-26 06:42:43.634
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-26 06:42:43.648
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.recommenders.calls.rcp 2 1 2017-05-26 06:55:05.061
+!MESSAGE Cannot obtain JDT’s lookup environment (debug only).
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:377)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:130)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:122)
+	at org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor.startSession(CallCompletionSessionProcessor.java:102)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.fireStartSession(IntelligentCompletionProposalComputer.java:229)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.computeCompletionProposals(IntelligentCompletionProposalComputer.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$5.run(ContentAssistant.java:1904)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1902)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:573)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:570)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:505)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:499)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:384)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY org.eclipse.recommenders.calls.rcp 4 2 2017-05-26 07:23:49.407
+!MESSAGE Proposal matching failed for [METHOD_REF]{completion:clone(), declSign:[Ljava.lang.Object;, sign:()[Ljava.lang.Object;, declKey:, key:, name:clone, replace:[204,204], token:[204,204], relevance:65}.
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:377)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:130)
+	at org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor.process(CallCompletionSessionProcessor.java:203)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.fireProcessProposal(IntelligentCompletionProposalComputer.java:243)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.computeCompletionProposals(IntelligentCompletionProposalComputer.java:143)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$5.run(ContentAssistant.java:1904)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1902)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:573)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:570)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:505)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:499)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:384)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+!SESSION 2017-05-29 06:29:47.636 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-29 06:30:41.922
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-29 06:30:41.945
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-30 06:41:50.959 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-30 06:42:57.528
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-30 06:42:57.560
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-31 06:48:00.725 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-31 06:48:52.210
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-31 06:48:52.235
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-01 06:29:09.073 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-01 06:29:54.019
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-01 06:29:54.024
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-02 06:30:34.231 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-02 06:31:43.798
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-02 06:31:43.810
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.recommenders.rcp 4 5 2017-06-02 06:59:40.571
+!MESSAGE Failed to resolve selection in ‘=Project/src<day4{LinksEg4.java’ at offset 619
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:377)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:130)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromTypeRootInEditor(JavaElementSelections.java:163)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromEditor(JavaElementSelections.java:119)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelections.resolveJavaElementFromEditor(JavaElementSelections.java:102)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.handleSelectionInEditor(JavaElementSelectionService.java:108)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.access$1(JavaElementSelectionService.java:105)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService$1.run(JavaElementSelectionService.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2017-06-05 06:45:09.949 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-05 06:46:13.163
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-05 06:46:13.169
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-05 06:51:59.099 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-05 06:53:36.564
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-05 06:53:36.575
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-06 06:31:33.483 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-06 06:34:26.262
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-06 06:34:26.325
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-07 06:29:50.911 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-07 06:32:52.739
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-07 06:32:52.757
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-09 06:28:36.679 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-09 06:30:12.113
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-09 06:30:12.131
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-10 06:22:42.972 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-10 06:23:36.131
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-10 06:23:36.142
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-14 06:35:24.688 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-14 06:36:22.054
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-14 06:36:22.062
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-14 19:25:48.462 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-14 19:26:47.467
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-14 19:26:47.481
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-15 06:30:04.082 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-15 06:31:05.576
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-15 06:31:05.603
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-16 06:27:06.175 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-16 06:27:58.744
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-16 06:27:58.802
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-20 06:23:28.041 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-20 06:24:25.720
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-20 06:24:25.834
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-21 06:29:53.540 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-21 06:31:07.753
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-21 06:31:07.769
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-21 06:50:52.097 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-21 06:51:53.845
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-21 06:51:53.847
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 06:56:47.371
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51797 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1469971587\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 51797 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1469971587\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:00:02.030
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51848 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--792292294\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 51848 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--792292294\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:04:20.909
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51909 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1380236230\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 51909 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1380236230\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:07:05.052
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51975 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1879618607\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 51975 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1879618607\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:09:52.885
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52026 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--16010220\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 52026 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--16010220\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:13:22.212
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52069 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-328612068\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 52069 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-328612068\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:15:37.621
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52114 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1491034046\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 52114 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1491034046\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-21 07:26:11.778
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52320 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-605919147\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 52320 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-605919147\testng-customsuite.xml
+!SESSION 2017-06-22 06:37:41.132 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-22 06:38:50.599
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-22 06:38:50.626
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 06:58:54.220
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63138 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1220212375\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 63138 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1220212375\testng-customsuite.xml
+
+!ENTRY org.eclipse.recommenders.calls.rcp 2 1 2017-06-22 07:02:09.769
+!MESSAGE Cannot obtain JDT’s lookup environment (debug only).
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:377)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:130)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:122)
+	at org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor.startSession(CallCompletionSessionProcessor.java:102)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.fireStartSession(IntelligentCompletionProposalComputer.java:229)
+	at org.eclipse.recommenders.completion.rcp.processable.IntelligentCompletionProposalComputer.computeCompletionProposals(IntelligentCompletionProposalComputer.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:337)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:325)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:282)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$5.run(ContentAssistant.java:1904)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1902)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:573)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:570)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:505)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:499)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:384)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:03:58.182
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63321 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-866910846\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 63321 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-866910846\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:08:38.985
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63539 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 63539 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:12:04.599
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63738 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 63738 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:14:16.874
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63987 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 63987 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:15:53.571
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64074 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 64074 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:19:55.524
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64250 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 64250 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:27:03.081
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64513 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--79443398\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 64513 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--79443398\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-22 07:29:50.373
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64698 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 64698 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+!SESSION 2017-06-23 06:33:45.499 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-23 06:34:36.870
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-23 06:34:36.897
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-26 06:38:28.265 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-26 06:39:22.478
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-26 06:39:22.496
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2017-06-26 07:20:41.313
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60897 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1176962594\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 60897 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1176962594\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-26 07:24:49.373
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61035 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-73085707\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 61035 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-73085707\testng-customsuite.xml
+!SESSION 2017-06-27 06:06:50.842 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-27 06:09:14.405
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-27 06:09:14.416
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-28 06:31:58.452 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-28 06:32:48.198
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-28 06:32:48.210
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:14:35.320
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Login Test : Not Started - Undefined (4)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:641)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:532)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:87)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:14:35.326
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Login Test : Completed - OK (4)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:641)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:532)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:87)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:14:35.327
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Login Test : Completed - OK (4)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:667)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:521)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:518)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:513)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:91)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:14:35.329
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '8': TestSuite: Scenario: Logout Test : Not Started - Undefined (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:641)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:532)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:87)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:14:35.331
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '8': TestSuite: Scenario: Logout Test : Completed - OK (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:641)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:532)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:87)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:14:35.358
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '8': TestSuite: Scenario: Logout Test : Completed - OK (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:667)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:521)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:518)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:513)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:91)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:22:13.978
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Login Test : Not Started - Undefined (4)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:641)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:532)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:87)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:22:30.648
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Login Test : Completed - OK (4)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:667)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:521)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:518)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:513)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:91)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:22:30.649
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '8': TestSuite: Scenario: Logout Test : Not Started - Undefined (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:641)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:532)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:87)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2017-06-28 07:22:35.412
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '8': TestSuite: Scenario: Logout Test : Completed - OK (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:737)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:667)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:521)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:518)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:513)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:91)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:375)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:374)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:272)
+!SESSION 2017-06-29 06:51:53.795 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-29 06:52:56.365
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-29 06:52:56.387
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 06:59:16.170
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53458 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1722353275\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 53458 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1722353275\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 07:07:58.555
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53867 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1195582769\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 53867 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1195582769\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 07:14:43.626
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54264 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 54264 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 07:15:06.682
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54303 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 54303 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 07:16:50.676
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54550 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1000810261\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 54550 -protocol json -d F:\Morning630\Project\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse--1000810261\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 07:17:00.372
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54559 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 54559 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2017-06-29 07:19:48.215
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\Morning630\Project\bin F:\Cdownloads\selenium-server-standalone-2.53.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55030 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\Morning630\Project\bin:F:\Cdownloads\selenium-server-standalone-2.53.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-codec-1.10.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-collections4-4.1.jar:C:\Users\Dell\Downloads\poi-3.16\lib\commons-logging-1.2.jar:C:\Users\Dell\Downloads\poi-3.16\lib\curvesapi-1.04.jar:C:\Users\Dell\Downloads\poi-3.16\lib\junit-4.12.jar:C:\Users\Dell\Downloads\poi-3.16\lib\log4j-1.2.17.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-examples-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-excelant-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-ooxml-schemas-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\poi-scratchpad-3.16.jar:C:\Users\Dell\Downloads\poi-3.16\lib\xmlbeans-2.6.0.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\jcommander.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\bsh-2.0b4.jar:F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 55030 -protocol json -d F:\Morning630\Project\test-output F:\Morning630\Project\testng.xml
+!SESSION 2017-06-30 07:09:18.205 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-30 07:10:07.811
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-30 07:10:07.826
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-06-30 07:18:57.665 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-30 07:19:36.280
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-30 07:19:36.282
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2017-06-30 07:23:53.117
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar C:\Users\Dell\mvnSelenium\target\test-classes C:\Users\Dell\mvnSelenium\target\classes C:\Users\Dell\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar C:\Users\Dell\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-server\2.53.1\selenium-server-2.53.1.jar C:\Users\Dell\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\Dell\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.48\bcprov-jdk15on-1.48.jar C:\Users\Dell\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.48\bcpkix-jdk15on-1.48.jar C:\Users\Dell\.m2\repository\mx4j\mx4j-tools\3.0.1\mx4j-tools-3.0.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.2.13.v20150730\jetty-repacked-9.2.13.v20150730.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\jetty-rc-repacked\5\jetty-rc-repacked-5.jar C:\Users\Dell\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-java\2.53.1\selenium-java-2.53.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\2.53.1\selenium-chrome-driver-2.53.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\2.53.1\selenium-remote-driver-2.53.1.jar C:\Users\Dell\.m2\repository\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar C:\Users\Dell\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-api\2.53.1\selenium-api-2.53.1.jar C:\Users\Dell\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar C:\Users\Dell\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar C:\Users\Dell\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar C:\Users\Dell\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\Dell\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar C:\Users\Dell\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\Dell\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar C:\Users\Dell\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\2.53.1\selenium-edge-driver-2.53.1.jar C:\Users\Dell\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\htmlunit-driver\2.21\htmlunit-driver-2.21.jar C:\Users\Dell\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.21\htmlunit-2.21.jar C:\Users\Dell\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar C:\Users\Dell\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar C:\Users\Dell\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\Dell\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar C:\Users\Dell\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar C:\Users\Dell\.m2\repository\net\sourceforge\htmlunit\neko-htmlunit\2.21\neko-htmlunit-2.21.jar C:\Users\Dell\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar C:\Users\Dell\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar C:\Users\Dell\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.18\cssparser-0.9.18.jar C:\Users\Dell\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar C:\Users\Dell\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.2.15.v20160210\websocket-client-9.2.15.v20160210.jar C:\Users\Dell\.m2\repository\org\eclipse\jetty\jetty-util\9.2.15.v20160210\jetty-util-9.2.15.v20160210.jar C:\Users\Dell\.m2\repository\org\eclipse\jetty\jetty-io\9.2.15.v20160210\jetty-io-9.2.15.v20160210.jar C:\Users\Dell\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.2.15.v20160210\websocket-common-9.2.15.v20160210.jar C:\Users\Dell\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.2.15.v20160210\websocket-api-9.2.15.v20160210.jar C:\Users\Dell\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\2.53.1\selenium-firefox-driver-2.53.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\2.53.1\selenium-ie-driver-2.53.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\2.53.1\selenium-safari-driver-2.53.1.jar C:\Users\Dell\.m2\repository\io\netty\netty\3.5.7.Final\netty-3.5.7.Final.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-support\2.53.1\selenium-support-2.53.1.jar C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-leg-rc\2.53.1\selenium-leg-rc-2.53.1.jar C:\Users\Dell\.m2\repository\org\yaml\snakeyaml\1.8\snakeyaml-1.8.jar C:\Users\Dell\.m2\repository\org\testng\testng\6.11\testng-6.11.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50898 -protocol json -d C:\Users\Dell\mvnSelenium\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1110084733\testng-customsuite.xml
+java -ea -classpath F:\Morning 6 30 AM Recordings\eclipse\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:C:\Users\Dell\mvnSelenium\target\test-classes:C:\Users\Dell\mvnSelenium\target\classes:C:\Users\Dell\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar:C:\Users\Dell\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-server\2.53.1\selenium-server-2.53.1.jar:C:\Users\Dell\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\Dell\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.48\bcprov-jdk15on-1.48.jar:C:\Users\Dell\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.48\bcpkix-jdk15on-1.48.jar:C:\Users\Dell\.m2\repository\mx4j\mx4j-tools\3.0.1\mx4j-tools-3.0.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.2.13.v20150730\jetty-repacked-9.2.13.v20150730.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\jetty-rc-repacked\5\jetty-rc-repacked-5.jar:C:\Users\Dell\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-java\2.53.1\selenium-java-2.53.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\2.53.1\selenium-chrome-driver-2.53.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\2.53.1\selenium-remote-driver-2.53.1.jar:C:\Users\Dell\.m2\repository\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar:C:\Users\Dell\.m2\repository\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-api\2.53.1\selenium-api-2.53.1.jar:C:\Users\Dell\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar:C:\Users\Dell\.m2\repository\org\apache\httpcomponents\httpclient\4.5.1\httpclient-4.5.1.jar:C:\Users\Dell\.m2\repository\org\apache\httpcomponents\httpcore\4.4.3\httpcore-4.4.3.jar:C:\Users\Dell\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\Dell\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar:C:\Users\Dell\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\Dell\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar:C:\Users\Dell\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\2.53.1\selenium-edge-driver-2.53.1.jar:C:\Users\Dell\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\htmlunit-driver\2.21\htmlunit-driver-2.21.jar:C:\Users\Dell\.m2\repository\net\sourceforge\htmlunit\htmlunit\2.21\htmlunit-2.21.jar:C:\Users\Dell\.m2\repository\xalan\xalan\2.7.2\xalan-2.7.2.jar:C:\Users\Dell\.m2\repository\xalan\serializer\2.7.2\serializer-2.7.2.jar:C:\Users\Dell\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\Dell\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar:C:\Users\Dell\.m2\repository\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar:C:\Users\Dell\.m2\repository\net\sourceforge\htmlunit\neko-htmlunit\2.21\neko-htmlunit-2.21.jar:C:\Users\Dell\.m2\repository\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar:C:\Users\Dell\.m2\repository\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar:C:\Users\Dell\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.18\cssparser-0.9.18.jar:C:\Users\Dell\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar:C:\Users\Dell\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.2.15.v20160210\websocket-client-9.2.15.v20160210.jar:C:\Users\Dell\.m2\repository\org\eclipse\jetty\jetty-util\9.2.15.v20160210\jetty-util-9.2.15.v20160210.jar:C:\Users\Dell\.m2\repository\org\eclipse\jetty\jetty-io\9.2.15.v20160210\jetty-io-9.2.15.v20160210.jar:C:\Users\Dell\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.2.15.v20160210\websocket-common-9.2.15.v20160210.jar:C:\Users\Dell\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.2.15.v20160210\websocket-api-9.2.15.v20160210.jar:C:\Users\Dell\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\2.53.1\selenium-firefox-driver-2.53.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\2.53.1\selenium-ie-driver-2.53.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\2.53.1\selenium-safari-driver-2.53.1.jar:C:\Users\Dell\.m2\repository\io\netty\netty\3.5.7.Final\netty-3.5.7.Final.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-support\2.53.1\selenium-support-2.53.1.jar:C:\Users\Dell\.m2\repository\org\seleniumhq\selenium\selenium-leg-rc\2.53.1\selenium-leg-rc-2.53.1.jar:C:\Users\Dell\.m2\repository\org\yaml\snakeyaml\1.8\snakeyaml-1.8.jar:C:\Users\Dell\.m2\repository\org\testng\testng\6.11\testng-6.11.jar org.testng.remote.RemoteTestNG -serport 50898 -protocol json -d C:\Users\Dell\mvnSelenium\test-output C:\Users\Dell\AppData\Local\Temp\testng-eclipse-1110084733\testng-customsuite.xml
+!SESSION 2017-06-30 07:28:03.858 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-30 07:28:38.863
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-06-30 07:28:38.866
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="Test2(failed)" parallel="tests">
+    <classes>
+      <class name="testNG.EmpRegTest">
+        <methods>
+          <include name="org_Launch"/>
+          <include name="org_Login"/>
+          <include name="org_Logout"/>
+        </methods>
+      </class> <!-- testNG.EmpRegTest -->
+      <class name="testNG.Userreg">
+        <methods>
+          <include name="org_Launch"/>
+          <include name="org_Userreg"/>
+        </methods>
+      </class> <!-- testNG.Userreg -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test name="Test1(failed)" parallel="tests">
+    <classes>
+      <class name="testNG.EmpRegTest">
+        <methods>
+          <include name="org_Empreg" invocation-numbers="0 1 2"/>
+          <include name="org_Launch"/>
+          <include name="org_Login"/>
+          <include name="org_Logout"/>
+        </methods>
+      </class> <!-- testNG.EmpRegTest -->
+      <class name="testNG.Userreg">
+        <methods>
+          <include name="org_Launch"/>
+        </methods>
+      </class> <!-- testNG.Userreg -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,8 @@
+Feature: Login & Logout Test
+	
+		Scenario: Login Test
+			Given the browser launched and navigated to url
+			When the enters username, Password
+			And clicks on login
+			Then welcome admin message displayed
+			

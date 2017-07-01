@@ -1,0 +1,15 @@
+package junit;
+
+import org.junit.BeforeClass;
+import org.openqa.selenium.WebDriver;
+
+public class Primus_Master
+{
+	public static WebDriver driver;
+	@BeforeClass
+	public static primus_Launch()
+	{
+		
+	}
+
+}

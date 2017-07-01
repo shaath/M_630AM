@@ -1,0 +1,16 @@
+package junit;
+
+import org.junit.Test;
+import org.openqa.selenium.By;
+
+public class Login extends Primus_Master
+{
+	@Test
+	public void primus_Login()
+	{
+		driver.findElement(By.id("")).sendKeys("Admin");
+		driver.findElement(By.id("")).sendKeys("Admin");
+		driver.findElement(By.id("")).click();
+	}
+	
+}
